@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = WorkerApplication.class)
-public abstract class BaseClass {
+public abstract class BaseContractTest {
 
     @Autowired
     private WorkerController controller;

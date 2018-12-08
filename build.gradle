@@ -48,5 +48,5 @@ dependencyManagement {
 }
 
 contracts {
-	baseClassForTests = 'net.devtoon.worker.BaseClass'
+	baseClassForTests = 'net.devtoon.worker.BaseContractTest'
 }
